@@ -36,4 +36,31 @@ Criar um sistema web para gerenciamento de tarefas pessoais e de equipe, permiti
 3. Atribuir responsáveis às tarefas  
 4. Definir prazos e status (pendente, em andamento, concluída)  
 5. Listagem de tarefas com filtros por status e responsável  
-6. Dashboard com estatísticas básicas  
+6. Dashboard com estatísticas básicas
+
+
+## Wireframes
+
+📌 Tela de Login
+
+![image](https://github.com/user-attachments/assets/0409e1be-c778-4604-8f03-e343d9972392)
+
+📌 Tela de Cadastro
+
+![image](https://github.com/user-attachments/assets/4e64bbe2-47e1-49f1-9ab2-f24b8afcba38)
+
+
+📌 Tela Principal - Lista de Tarefas
+
+![image](https://github.com/user-attachments/assets/e2605e6d-c66d-44ac-85bb-a15843cc1c57)
+
+
+📌 Tela de Criar/Editar Tarefa
+
+![image](https://github.com/user-attachments/assets/883cfdf2-59c7-48fb-a3e7-083cb9499816)
+
+
+📌 Tela de Perfil do Usuário
+
+![image](https://github.com/user-attachments/assets/9d86de6a-c314-4213-bb30-0b45f460a484)
+
